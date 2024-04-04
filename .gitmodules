@@ -1,0 +1,3 @@
+[submodule "osqp-matlab"]
+	path = osqp-matlab
+	url = https://github.com/jasonnicholson/osqp-matlab/
