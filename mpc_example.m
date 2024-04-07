@@ -1,4 +1,4 @@
-clc; clear; close all;
+clear; close all;
 % Discrete time model of a quadcopter
 Ad = [1       0       0   0   0   0   0.1     0       0    0       0       0;
       0       1       0   0   0   0   0       0.1     0    0       0       0;
