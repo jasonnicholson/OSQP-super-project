@@ -13,8 +13,8 @@
                 "-D_GNU_SOURCE",
                 "-DMATLAB_MEX_FILE"
             ],
-            "cStandard": "c17",
-            "cppStandard": "gnu++17",
+            "cStandard": "c11",
+            "cppStandard": "gnu++11",
             "intelliSenseMode": "linux-gcc-x64",
             "compilerArgs": [
                 "-fexceptions",
